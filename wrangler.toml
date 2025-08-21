@@ -1,0 +1,8 @@
+name = "claude-code-nexus"
+compatibility_date = "2025-08-21"
+pages_build_output_dir = "dist" # Adjust to your build output directory
+
+[[d1_databases]]
+binding = "DB"
+database_name = "claude-code-nexus"
+database_id = "56a9d7bb-59bf-44b8-b70d-1e27067bd360"
